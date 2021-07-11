@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'Gilroy-ExtraBold';
+  src: local('Gilroy-1'), url(./assets/fonts/Gilroy-ExtraBold.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Gilroy-Light';
+  src: local('Gilroy-2'), url(./assets/fonts/Gilroy-Light.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'SegoeUI-Light';
+  src: local('Gilroy-2'), url(./assets/fonts/segoeuil.ttf) format('truetype');
+}
+
+*{
+  margin: 0;
+  padding: 0;  
+}
+
+body, html { 
+  height: 100%;  
+  margin: 0;
+}
+
